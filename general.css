@@ -19,9 +19,8 @@ html, body{
 	width: 100%;
 }
 
-h1, 
-.main,
-.copyright{
+h1  {
+	color: #990033;
 	width: 90%;
 	margin: 1rem auto;
 }
