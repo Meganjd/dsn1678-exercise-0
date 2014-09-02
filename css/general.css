@@ -30,6 +30,32 @@ img{
 }
 
 figcaption {
-	font-size: 16px;
+	font-size: 12px;
 	color: #9C9CA1; 
 }
+
+blockquote {
+	font-family: serif;
+}
+
+cite {
+	font-size: 12px;
+	color: #9C9CA1;
+}
+
+h2 {
+	color: #990033; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
