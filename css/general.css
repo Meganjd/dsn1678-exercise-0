@@ -28,3 +28,8 @@ h1  {
 img{
 	width: 100%;
 }
+
+figcaption {
+	font-size:9px;
+	color:#9C9CA1; 
+}
