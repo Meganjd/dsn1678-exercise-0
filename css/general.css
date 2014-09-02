@@ -31,7 +31,7 @@ img{
 
 figcaption {
 	font-size: 14px;
-	color: #9C9CA1; 
+	color: #48484C; 
 }
 
 blockquote {
@@ -39,19 +39,14 @@ blockquote {
 }
 
 cite {
+	float: right;
 	font-size: 14px;
-	color: #9C9CA1;
+	color: #48484C;
 }
 
 h2 {
 	color: #990033; 
 }
-
-
-
-
-
-
 
 
 
