@@ -10,14 +10,18 @@ html{
 	-webkit-text-size-adjust: 100%;
 	-o-text-size-adjust: 100%;
 	text-size-adjust: 100%;
+	background-color: #E0E0E1; 
 }
 
-html, body{
+body {
 	font-family: sans-serif;
 	font-size: 100%;
 	margin: 0;
-	padding: 0;
-	width: 100%;
+	padding: 1em;
+	width: 80%;
+	background-color: #FFF;
+	border: 2rem;
+	border-radius: 10px;
 }
 
 h1  {
@@ -33,10 +37,12 @@ img{
 figcaption {
 	font-size: 14px;
 	color: #48484C; 
+	background-color: #F6F6F7; 
 }
 
 blockquote {
 	font-family: serif;
+	background-color: #F6F6F7; 
 }
 
 cite {
@@ -46,7 +52,16 @@ cite {
 }
 
 h2 {
-	color: #990033; 
+	color: #990033;
+	margin-top: 1.75em; 
+}
+
+.block-footer {
+	float: right;
+}
+
+.nutrition {
+	background-color: #F6F6F7;
 }
 
 
